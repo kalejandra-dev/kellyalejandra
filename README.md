@@ -3,6 +3,7 @@
 # Hi, I'm Alejandra :)
 
 🎓 Data Science & Engineering student @ UC3M 
+
 💻 Background in Web Development  
 
 ## 🔧 Some Technologies
