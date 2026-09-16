@@ -2,19 +2,17 @@
 
 # Hi, I'm Alejandra :)
 
-🎓 Data Science & Engineering student  
+🎓 Data Science & Engineering student @ UC3M 
 💻 Background in Web Development  
-🤖 Interested in Machine Learning & AI  
 
 ## 🔧 Some Technologies
 - Python
 - SQL
 - R
 - JavaScript
-- React
+- Scikit-Learn
 - MongoDB
-- Neo4j
+- Pandas
 
 ## 📌 Current Projects
-- Statistical Learning Kaggle Project
-- Neo4j Database Project
+- Spotify Life-Time Project
